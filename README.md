@@ -3,7 +3,7 @@ Linear regression is a fundamental statistical method that models the relationsh
 
 Linear regression forms the foundation for more advanced machine learning algorithms.
 
-Technologies used 
+Technologies used:
 
 Python
 
